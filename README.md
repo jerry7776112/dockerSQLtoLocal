@@ -24,7 +24,7 @@
 * MakeFile使用
 
 ### Flow
-![flowchart(https://github.com/jerry7776112/dockerSQLtoLocal/blob/main/flow/flow1.png "flowchart")
+![flowchart](https://github.com/jerry7776112/dockerSQLtoLocal/blob/main/flow/flow1.png "flowchart")
 
 #### pgAdmin 
 為一可介面化操作與管理PostgreSQL的應用程式
