@@ -1,5 +1,4 @@
 # dockerSQLtoLocal
-# 使用pgAdmin操作Docker上的PostgreSQL
 ## 專案說明
 ### 專案名稱: 使用pgAdmin操作Docker上的PostgreSQL
 **(詳情請參閱 DockerPostgreSQLPgAdmin實作說明.pdf 檔案)**
