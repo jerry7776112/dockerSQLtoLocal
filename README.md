@@ -2,6 +2,7 @@
 ## 專案說明
 ### 專案名稱: 使用pgAdmin操作Docker上的PostgreSQL
 **(詳情請參閱 DockerPostgreSQLPgAdmin實作說明.pdf 檔案)**
+**(https://github.com/jerry7776112/dockerSQLtoLocal/blob/main/DockerPostgreSQLPgAdmin%E5%AF%A6%E4%BD%9C%E8%AA%AA%E6%98%8E.pdf)**
 ### 實作說明
 * 使用Docker所提供的PostgreSQL
 * 使用本地端pgAdmin連線Docker上的PostgreSQL
